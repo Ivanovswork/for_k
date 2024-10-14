@@ -1,0 +1,6 @@
+{"amount":"1300","type":"income"}
+{"amount":"3000","type":"add income"}
+{"amount":"200","type":""}
+{"amount":"3000","type":"zp"}
+{"amount":"200","type":"dolg"}
+{"amount":"500","type":"zp"}

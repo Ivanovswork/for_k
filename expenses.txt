@@ -1,0 +1,4 @@
+{"amount":"400","type":"eda"}
+{"amount":"500","type":"bezin"}
+{"amount":"400","type":"krosovki"}
+{"amount":"400","type":"vtoroi krosovok"}
