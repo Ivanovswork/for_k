@@ -4,3 +4,5 @@
 {"amount":"3000","type":"zp"}
 {"amount":"200","type":"dolg"}
 {"amount":"500","type":"zp"}
+{"amount":"300","type":"zp"}
+{"amount":"450","type":"зарплата"}
